@@ -124,3 +124,7 @@ form button {
 figure {
     caption-side: right;
 }
+
+#jack {
+    border-radius: 20px;
+}
