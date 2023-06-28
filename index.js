@@ -1,5 +1,4 @@
-let saythanks = 'Thank you for sending a message!';
-let hi = '12345';
+let thankstring = 'Thank you for sending a message!'; 
 function thankyou() {
-    alert(saythanks);
+    alert(thankstring);
 }
