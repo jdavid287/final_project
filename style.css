@@ -17,6 +17,30 @@ ul {
     padding: 0;
 }
 
+#nav_links {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+#nav_links a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+  }
+  
+#nav_links a:hover {
+    border-bottom: 3px solid red;
+  }
+  
+#nav_links a.active {
+    border-bottom: 3px solid red;
+  }
+
 .nav_links{
     list-style: none;
 }
