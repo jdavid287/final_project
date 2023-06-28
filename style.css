@@ -87,3 +87,40 @@ color: #0729c1;
 #link_logo {
     background: transparent;
 }
+
+form {
+    margin: 20px;
+}
+
+form h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+figure {
+    caption-side: right;
+}
