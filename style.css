@@ -10,6 +10,36 @@
     border-top: 15px solid;
     border-bottom: #fff;
 }
+#menu_bar {
+    background-color: rgb(1, 45, 139);
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav_links{
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+}
+.nav_links li a:hover {
+color: #fff;
+}
+
+.nav_links {
+    background-color: rgb(1, 45, 139);
+    padding: 1em 0;
+}
 
 #resume_body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
