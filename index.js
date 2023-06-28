@@ -1,5 +1,5 @@
-let thankyou = 'Thank you for sending a message!';
+let saythanks = 'Thank you for sending a message!';
 
-function thnakyou() {
-    alert(thankyou);
+function thankyou() {
+    alert(saythanks);
 }
