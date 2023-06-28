@@ -56,7 +56,10 @@ color: #0729c1;
         grid-template-columns: 40% 60%;
         margin-top: 3em;
     }
-   
+    header {
+        text-align: left;
+        margin: auto 2em;
+    }
    
     section {
         margin: auto 1em 4em 2em;
@@ -76,7 +79,7 @@ color: #0729c1;
         height: 1px;
     }
    
-    h2 {
+    h1, h2 {
         font-weight: 100;
         margin-bottom: 0;
     }
