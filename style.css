@@ -3,7 +3,7 @@
     font-size: 25px;
     color: #000000;
     text-decoration: none;
-    display: inline-flex;
+    display: flex;
     justify-content: space-between;
     align-items: left;
     padding: 30px 10%;
