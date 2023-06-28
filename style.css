@@ -86,3 +86,6 @@ color: #0729c1;
         border-right: 1px solid lightgray;
     }
 
+#link_logo {
+    background: transparent;
+}
