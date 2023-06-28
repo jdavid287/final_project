@@ -9,10 +9,9 @@
     padding: 30px 10%;
     border-top: 15px solid;
     border-bottom: #fff;
-}
-#menu_bar {
     background-color: rgb(255, 255, 255);
 }
+
 
 ul {
     list-style: none;
@@ -57,10 +56,7 @@ color: #0729c1;
         grid-template-columns: 40% 60%;
         margin-top: 3em;
     }
-    header {
-        text-align: center;
-        margin: auto 2em;
-    }
+   
    
     section {
         margin: auto 1em 4em 2em;
