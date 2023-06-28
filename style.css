@@ -11,13 +11,12 @@
     border-bottom: #fff;
 }
 
-#resume {
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 12px;
-        max-width: 960px;
-        margin: auto;
-    }
+#resume_body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
     h1 {
         font-size: 3em;
         letter-spacing: .6em;
@@ -63,4 +62,4 @@
     #mainLeft {
         border-right: 1px solid lightgray;
     }
-}
+
